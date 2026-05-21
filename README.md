@@ -42,7 +42,7 @@ The bonus assignment focuses on developing a simple code generator that can auto
 ## Software & Tools Used
 - **Java** – For compiling and running the simulator and demonstrator programs  
 - **Eclipse Papyrus** – For UML modeling and code generation  
-- **Visual Studio Code** – For editing and navigating Java code  
+- **Visual Studio Code** – For editing and navigating Python code  
 - **GitHub** – Repository hosting and version control  
 - **Discord** – Team communication during development
 
