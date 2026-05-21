@@ -20,7 +20,7 @@ The bonus assignment focuses on developing a simple code generator that can auto
 ---
 
 ## Requirements to Run
-* Java 25 (OpenJDK 25.0.1) 
+* Python 3 
 * Git
 * Optional: an IDE such as IntelliJ IDEA or Eclipse for easier navigation
 
